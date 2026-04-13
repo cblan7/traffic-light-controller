@@ -22,6 +22,5 @@ The circuit controls two traffic light systems:
 - Logic ensures no overlap of conflicting signals
 
 ## Demo
-
-![Traffic Light Circuit]<img width="1475" height="577" alt="image" src="https://github.com/user-attachments/assets/e3824fa1-83eb-42a7-97e3-ac98de1086f8" />
+<img width="1475" height="577" alt="image" src="https://github.com/user-attachments/assets/e3824fa1-83eb-42a7-97e3-ac98de1086f8" />
 
