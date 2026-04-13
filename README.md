@@ -15,6 +15,7 @@ A digital logic circuit that simulates a traffic light intersection. The system 
 - State-based sequencing
 - Timing control using combinational logic
 - LED outputs to represent traffic signals
+- Designed and tested using CircuitVerse simulation environment
 
 ## How It Works
 The circuit controls two traffic light systems:
